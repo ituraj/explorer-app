@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To run Flickr API add .env file with your API key.
+
+Apply for your API key [here.](https://www.flickr.com/services/apps/create/apply)
 
 ## Available Scripts
 
